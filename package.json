@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "claudia chittim",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0y01202/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c0y01202/note-taker/issues"
+  },
+  "homepage": "https://github.com/c0y01202/note-taker#readme"
 }
