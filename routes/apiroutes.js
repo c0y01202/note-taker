@@ -3,7 +3,7 @@ const fs = require("fs");
 const notesData = require("../db/db.json");
 
 module.exports = function (app) {
-  //========== FUNCTIONS ==========
+  //FUNCTIONS
   function writeToDB(notes) {
     // Converts new JSON Array back to string
     notes = JSON.stringify(notes);
@@ -16,7 +16,7 @@ module.exports = function (app) {
     });
   }
 
-  //========== API ROUTES ==========
+  //API ROUTES
 
   // GET Method to return all notes
   app.get("/api/notes", function (req, res) {
