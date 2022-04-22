@@ -30,10 +30,6 @@ Testing application on local port 3001: https://drive.google.com/file/d/1NIRsvPF
 
 Testing application on Heroku: https://drive.google.com/file/d/1ek9Bn6AyhBzm5ZLPZ-ttc_ATctH1Yhs8/view
 
-# Live Application
-
-https://c0y01202.github.io/note-taker/
-
 # GitHub Respository
 
 https://github.com/c0y01202/note-taker
