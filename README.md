@@ -24,7 +24,7 @@ The application was uploaded to Heroku.
 
 Code was also tested from the PORT3000 server and this worked more easily than deploying code to Heroku. Once the application was finished all files were uploaded to Heroku and GitHub.
 
-# Link to Video Application Working on Server
+# Link to Video Demonstration of Note Taker Application
 
 https://drive.google.com/file/d/1NIRsvPFGc12LVblKGIuO1juqYYBrlx6l/view
 
