@@ -26,7 +26,9 @@ Code was also tested from the PORT3000 server and this worked more easily than d
 
 # Link to Video Demonstration of Note Taker Application
 
-https://drive.google.com/file/d/1NIRsvPFGc12LVblKGIuO1juqYYBrlx6l/view
+Testing application on local port 3001: https://drive.google.com/file/d/1NIRsvPFGc12LVblKGIuO1juqYYBrlx6l/view
+
+Testing application on Heroku: https://drive.google.com/file/d/1ek9Bn6AyhBzm5ZLPZ-ttc_ATctH1Yhs8/view
 
 <iframe src="https://drive.google.com/file/d/1NIRsvPFGc12LVblKGIuO1juqYYBrlx6l/preview" width="640" height="480"></iframe>
 
