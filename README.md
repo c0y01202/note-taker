@@ -18,11 +18,11 @@ The following external resources were used to test and deploy applications to se
 
 # Phases of Project
 
-To begin I created a Git repository and downloaded the starter code. From there the server.js file was updated with functions that instantiated the server. From there a basic Express.js server was created. A port was created and the code was tested in that port. The routes were tested as more files were added to the project folder. A Heroku application was created using "heroku create" in the terminal. Several applicaton errors were noted with Heroku so the code was revised many times.
+To begin I created a Git repository and downloaded the starter code. From there the server.js file was updated with functions that instantiated the server. From there a basic Express.js server was created. A port was created and the code was tested in that port. The routes were tested as more files were added to the project folder. A Heroku application was created using "heroku create" in the terminal. Several applicaton errors were noted with Heroku so the code was revised many times. The routes finally worked on both servers and the function to delete notes was added at the very end and tested.
 
 The application was uploaded to Heroku.
 
-Code was also tested from the PORT3000 server and this worked more easily than deploying code to Heroku. Once the application was finished all files were uploaded to Heroku and GitHub.
+Code was also tested from the PORT3001 server and this worked more easily than deploying code to Heroku. Once the application was finished all files were uploaded to Heroku and GitHub. Videos demonstrating the application working on PORT3001 and Heroku can be found below.
 
 # Link to Video Demonstration of Note Taker Application
 
