@@ -1,3 +1,6 @@
+![note_taker_index](https://user-images.githubusercontent.com/97765679/164788561-7d945ed4-5a15-4af7-b2ed-872767758170.png)
+![note_taker_html](https://user-images.githubusercontent.com/97765679/164788569-cf1d4f08-aed3-4fb7-9cca-ae1db12f73f6.png)
+![Video_Demonstration](https://user-images.githubusercontent.com/97765679/164788594-b5bf7759-1c8e-4616-9118-579424d04f23.gif)
 # Purpose of Project
 
 This project required use of Express.js code and JSON packages to run and test code for a note taking application that is programmed to fetch and return data from a local server. To do this I created my own server-side APIs using the Express.js framework. Express allows the user to quickly and easily establish API routes and associated HTTP request methods. The following routes were created in Javascript files: API and and HTML routes. This activity was important because it shows how client requests work from the server side.
