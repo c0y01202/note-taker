@@ -4,7 +4,7 @@ const path = require("path");
 const app = express();
 const fs = require("fs");
 
-// Create server application at port 3000
+// Create server application at port 3001
 const PORT = process.env.PORT || 3001;
 
 // Read URL or JSON
@@ -26,10 +26,6 @@ app.get("/", (req, res) => {
 
 app.get("/notes", (req, res) => {
   res.sendFile(path.join(__dirname, "./public/notes.html"));
-});
-
-app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "./public/index.html"));
 });
 
 function createNewNote(body, notesArray) {
